@@ -1,6 +1,5 @@
 env/**
 env
-data
 joern/output
 dataset/*
 workspace/*
@@ -11,7 +10,6 @@ csv2
 __pycache__
 **/__pycache__/**
 *.txt
-*.jsonl
 *.ipynb
 pycocoevalcap/**
 .vscode/**
@@ -22,3 +20,4 @@ test.py
 
 baseline/commit-autosuggestions-master/experiment/test/**
 baseline/commit-autosuggestions-master/tests/**
+baseline/commit-autosuggestions-master/experiment/dataset/**
