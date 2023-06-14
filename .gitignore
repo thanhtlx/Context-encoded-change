@@ -20,3 +20,5 @@ split_data.py
 test.py
 *.ipynb
 
+baseline/commit-autosuggestions-master/experiment/test/**
+baseline/commit-autosuggestions-master/tests/**
