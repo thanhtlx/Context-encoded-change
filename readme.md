@@ -1,4 +1,4 @@
-**generate Context-encoded change** 
+**Generate Context-encoded change** 
 
 1. **Requirement**
 
@@ -12,7 +12,7 @@
 
 2. **Get commit message**
 
-   get all commit message and commit hash of repos in folder ../repo
+   Get all commit message and commit hash of repos in folder ../repo
 
    ```python get_commit_message.py```
    
@@ -30,7 +30,8 @@
 
 5. **Generate Context-encoded change**
 
-   from cpg to extract all statement that have impact or are impacted to changed code
+   From cpg to extract all statement that have impact or are impacted to changed code
+   
    ```python generate_data.py```
 
 6. **convert to State-Of-The-Art  format**
