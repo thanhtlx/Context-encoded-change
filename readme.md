@@ -31,9 +31,9 @@
 5. **Generate Context-encoded change**
 
    From cpg to extract all statement that have impact or are impacted to changed code
-   
+
    ```python generate_data.py```
 
-6. **convert to State-Of-The-Art  format**
+6. **Convert to State-Of-The-Art  format**
 
    ```python convert_data.py```
